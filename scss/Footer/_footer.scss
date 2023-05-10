@@ -1,0 +1,22 @@
+footer {
+    background-color: #114c5f;
+    margin-top: 100px;
+
+    .redes {
+        display: flex;
+        justify-content: center;
+
+        a {
+            padding: 10px;
+            margin: 10px;
+            border-radius: 50%;
+            background-color: white;
+
+            i {
+                font-size: 1em;
+                color: black;
+
+            }
+        }
+    }
+}
